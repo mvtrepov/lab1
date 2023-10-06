@@ -1,0 +1,45 @@
+li {
+    display:inline;
+    margin-right:20px;
+}
+.photo{
+    text-align:center;
+}
+header {
+    background-color:black;
+    color:white;
+    font-size:35px;
+}
+.navigation{
+    margin: 0 auto;
+    max-width: 75%;
+    height:50px;
+}
+li:last-child {
+    margin-right: 0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body {
+    margin: 0;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.contact{
+    color:black;
+}
+table{
+    border: solid 1px black;
+    border-collapse:collapse;
+}
+td{
+    border:solid 1px black;
+}
+th{
+    border:solid 1px black;
+}
